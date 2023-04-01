@@ -17,9 +17,10 @@ h3 {
 color: cyan;
   font-size:30px;
   background-color:blue;
-  width:250px;
+  width:200px;
   margin:5px;
   padding:10px 0;
+  border: solid gold;
 }
 
 .Details {
